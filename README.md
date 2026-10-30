@@ -14,12 +14,6 @@ CoDehazeNet is an end-to-end network inspired by the human visual perception mec
 
 ---
 
-## 📊 Visualize the results
-
-![Visualize the results](images/moderate.jpg)![Visualize the results](images/RSID.png)
-
----
-
 ### 🚀 Getting Started
 
 We train and test the code on **PyTorch 1.13.0 + CUDA 11.8**. The detailed configuration is mentioned in the paper.
